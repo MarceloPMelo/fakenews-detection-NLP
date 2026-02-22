@@ -73,5 +73,9 @@ Depois disso, execute as células normalmente com `Run All`.
 - será necessário fazer upload dos arquvos train.csv e test.csv no Colab 
 
 ---
-
 ⚠️ Certifique-se de que o ambiente virtual (`venv`) esteja ativado antes de rodar o notebook.
+
+---
+⚠️ Devido ao grande tamanho dos artefatos do modelo, criei um drive e coloquei eles lá pois o git hub não estava aceitando por conta do tamanho.
+
+Link do drive: https://drive.google.com/drive/folders/1vsYM5NHYuItoxVrW1Jp1eWfehi0ibTwB?usp=drive_link
